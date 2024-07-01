@@ -25,5 +25,5 @@ Dice Game is an interactive web application where users can roll a dice, select 
    git clone https://github.com/yourusername/dicegame.git
    cd dicegame
 ##Output
-![Screenshot 2024-06-23 201253](https://github.com/Rashikmoon/DiceGame/assets/153418665/80aa9693-cf3c-4ba1-be58-c2b34711e698)
-![33](https://github.com/Rashikmoon/DiceGame/assets/153418665/ec575fd5-62be-496d-a00b-38f04b7f3bde)
+![Screenshot 2024-06-23 201253](https://github.com/Rashikmoon/DiceGame/assets/153418665/cecd751a-7384-42e0-bc62-a679fc501dc7)
+![33](https://github.com/Rashikmoon/DiceGame/assets/153418665/65de39aa-d87b-4c03-935f-62b6e130a366)
